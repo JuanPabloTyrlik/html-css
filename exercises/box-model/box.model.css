@@ -1,0 +1,55 @@
+.button-pagination {
+  display: inline;
+  padding: 8px 6px;
+  cursor: pointer;
+}
+
+.pages {
+  display: inline;
+  margin: 0px 6px;
+  text-decoration: underline;
+  color: rgb(49, 8, 87);
+  cursor: pointer;
+}
+
+.button-green {
+  margin-top: 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+.stretch {
+  padding: 5px 10px;
+  transition: 1s;
+}
+
+.stretch:hover {
+  padding: 15px 30px;
+  font-size: 2rem;
+}
+
+.shadow {
+  padding: 5px 10px;
+  box-shadow: 5px 5px 5px rgba(128, 128, 128, 0.7);
+}
+
+.shadow:active {
+  margin-top: 25px;
+  margin-left: 5px;
+  box-shadow: none;
+}
+
+.list {
+  margin-left: 6px;
+  margin-right: 6px;
+  padding: 5px 10px;
+  transition: 0.3s;
+}
+
+.list:hover {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 5px 16px;
+}
