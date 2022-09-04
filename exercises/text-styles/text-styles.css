@@ -1,0 +1,141 @@
+.bigger {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.tahoma {
+  font-family: Tahoma;
+}
+
+.big-sale {
+  font-family: Arial;
+  margin-bottom: 0px;
+}
+
+.sale-end {
+  font-family: Arial;
+  margin-top: 4px;
+  font-style: italic;
+  color: red;
+}
+
+.course {
+  font-family: Verdana;
+}
+
+.course-title {
+  margin-bottom: 0px;
+}
+
+.course-sub-title {
+  margin-top: 0px;
+  color: rgb(100, 100, 100);
+}
+
+.course-description {
+  width: 300px;
+}
+
+.get-started-btn {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 14px;
+  font-weight: bold;
+}
+
+.apple {
+  font-family: Arial;
+  text-align: center;
+}
+
+.apple-new {
+  color: rgb(197, 135, 20);
+  margin-bottom: 4px;
+  font-size: small;
+  font-weight: bold;
+}
+
+.apple-product {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.apple-description {
+  margin-top: 0px;
+  margin-bottom: 6px;
+}
+
+.apple-price {
+  margin-top: 0px;
+  font-size: small;
+  color: rgb(63, 63, 63);
+}
+
+.apple-buy-btn {
+  border: none;
+  background-color: rgb(0, 0, 255, 0.75);
+  color: white;
+  font-weight: bold;
+  border-radius: 16px;
+  padding: 5px 10px;
+}
+
+.exchange,
+.fcc {
+  font-family: Arial;
+}
+
+.price {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.currency {
+  color: rgb(65, 65, 65);
+  font-size: 0.9rem;
+  font-weight: normal;
+}
+
+.last-24-hours {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: green;
+  font-size: small;
+}
+
+.avg-price {
+  color: gray;
+  font-size: small;
+  margin-top: 4px;
+}
+
+.diff {
+  color: red;
+}
+
+.fcc-name {
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.fcc-account {
+  color: rgb(65, 65, 65);
+  font-weight: normal;
+}
+
+.fcc-tweet {
+  margin-top: 10px;
+  width: 500px;
+}
+
+.fcc-tag {
+  color: rgb(0, 162, 255);
+  cursor: pointer;
+}
+
+.fcc-tag:hover {
+  text-decoration: underline;
+}
