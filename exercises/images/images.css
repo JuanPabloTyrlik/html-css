@@ -1,0 +1,26 @@
+img {
+  height: 200px;
+  margin: 35px;
+}
+
+body {
+  background-color: #121212;
+}
+
+.rounded-corners {
+  border-radius: 16px;
+}
+
+.square {
+  width: 200px;
+  object-fit: cover;
+  object-position: 90% 50%;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 90% 50%;
+}
