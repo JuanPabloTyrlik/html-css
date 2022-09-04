@@ -1,0 +1,144 @@
+.uber {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.3s;
+}
+
+.uber:hover {
+  opacity: 0.7;
+}
+
+.amazon {
+  padding: 10px 30px;
+  border-radius: 16px;
+  border: none;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.3s;
+}
+
+.amazon:active {
+  opacity: 0.5;
+}
+
+.amazon-add-to-cart {
+  background-color: rgb(255, 216, 20);
+  transition: background-color 0.3s;
+}
+
+.amazon-add-to-cart:hover {
+  background-color: rgb(209, 177, 15);
+}
+
+.amazon-buy-now {
+  background-color: rgb(255, 164, 28);
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  border-radius: 6px;
+  padding: 12px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+
+.github:hover {
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+.bootstrap-get-started {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 11px 22px;
+  font-weight: bold;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.bootstrap-get-started:hover {
+  background-color: rgb(87, 51, 141);
+}
+
+.bootstrap-download {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: rgb(108, 117, 125);
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.bootstrap-download:hover {
+  color: white;
+  background-color: rgb(108, 117, 125);
+}
+
+.linkedin-apply {
+  background-color: rgb(10, 102, 194);
+  border: none;
+  color: white;
+  padding: 10px 34px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.linkedin-apply:hover {
+  background-color: rgb(14, 87, 160);
+}
+
+.linkedin-save {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-radius: 18px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(10, 102, 194);
+  font-weight: bold;
+  font-size: 16px;
+  padding: 9px 14px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.linkedin-save:hover {
+  background-color: rgba(10, 102, 194, 0.1);
+  border-width: 2px;
+  padding: 8px 13px;
+}
+
+.challenge-article {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.challenge-price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.challenge-go-back {
+  color: rgb(10, 102, 194);
+}
+
+.challenge-go-back:hover {
+  color: rgb(255, 164, 28);
+}
