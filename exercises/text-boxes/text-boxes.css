@@ -1,0 +1,89 @@
+input {
+  font-size: 2rem;
+  margin: 20px;
+}
+
+.youtube {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: darkgrey;
+}
+
+.google {
+  border-style: none;
+  border-radius: 30px;
+  padding: 10px 20px;
+  padding-right: 400px;
+  font-size: 1rem;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+}
+
+.linkedin-text {
+  color: rgb(65, 65, 65);
+  margin-left: 20px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.linkedin-input {
+  border-radius: 4px;
+  border-width: 2px;
+  border-style: solid;
+  width: 370px;
+  margin-top: 5px;
+}
+
+.linkedin-button {
+  background-color: rgb(10, 102, 194);
+  border: none;
+  color: white;
+  font-size: 1rem;
+  padding: 15px 140px;
+  border-radius: 24px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.linkedin-button:hover {
+  background-color: rgb(14, 87, 160);
+}
+
+.twitter {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.twitter-text {
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-right: 80px;
+  color: gray;
+  border: none;
+  font-size: 1rem;
+}
+
+.twitter-btn1 {
+  vertical-align: middle;
+  background-color: rgb(26, 140, 216);
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 6px 16px;
+  border-radius: 20px;
+}
