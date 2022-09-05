@@ -1,0 +1,152 @@
+.square {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  display: block;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border-radius: 50%;
+  display: block;
+  margin-top: 20px;
+}
+
+.survey {
+  margin-top: 20px;
+  width: 250px;
+  height: 80px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  padding-top: 0px;
+}
+
+.yt-music {
+  margin-top: 20px;
+  background-color: rgb(0, 0, 0, 0.85);
+  padding: 10px 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 420px;
+}
+
+.yt-music-title {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  color: white;
+}
+
+.yt-music-desc {
+  color: rgb(161, 161, 161);
+}
+
+.twitter {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: none;
+  border-radius: 4px;
+  border-width: 2px;
+  padding: 10px;
+  width: 450px;
+  box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.5);
+}
+
+.twitter-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.twitter-text {
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-right: 80px;
+  color: gray;
+  border: none;
+  font-size: 1rem;
+}
+
+.twitter-btn1 {
+  vertical-align: middle;
+  background-color: rgb(26, 140, 216);
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 6px 16px;
+  border-radius: 20px;
+}
+
+.facebook {
+  margin-top: 20px;
+  margin-right: 10px;
+  width: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0px 0px 5px rgb(0, 0, 0, 0.3);
+  display: inline-block;
+}
+
+.facebook-img {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
+
+.facebook-name {
+  margin: 0px;
+  margin-top: 5px;
+  margin-left: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.facebook-friends {
+  margin-top: 4px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  font-size: 12px;
+  color: rgb(100, 100, 100);
+}
+
+.facebook-btn {
+  background-color: rgb(24, 119, 242);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 5px;
+  margin-bottom: 8px;
+}
+
+.google {
+  text-align: center;
+}
+
+.google-logo {
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.google-search-box {
+  border-style: none;
+  border-radius: 30px;
+  padding: 12px 16px;
+  font-size: 16px;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+  width: 500px;
+}
+
+.google-btn {
+  border: none;
+  background-color: rgb(245, 245, 245);
+  padding: 12px 20px;
+  margin-right: 10px;
+  font-size: 15px;
+}
