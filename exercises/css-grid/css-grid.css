@@ -1,0 +1,80 @@
+p {
+  margin: 0;
+}
+
+div {
+  margin-top: 20px;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.pink {
+  background-color: lightpink;
+}
+
+.grid-a {
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+
+.grid-b {
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+}
+
+.grid-c {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+
+.grid-d {
+  display: grid;
+  grid-template-columns: 150px 150px 150px;
+}
+
+.facebook-grid {
+  display: grid;
+  grid-template-columns: 150px 150px 150px;
+  column-gap: 15px;
+}
+
+.facebook {
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0px 0px 5px rgb(0, 0, 0, 0.3);
+}
+
+.facebook-img {
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.facebook-name {
+  margin: 0px;
+  margin-top: 5px;
+  margin-left: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.facebook-friends {
+  margin-top: 4px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  font-size: 12px;
+  color: rgb(100, 100, 100);
+}
+
+.facebook-btn {
+  background-color: rgb(24, 119, 242);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 5px;
+  margin-bottom: 8px;
+}
